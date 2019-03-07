@@ -6,7 +6,7 @@ ticTacToe
 ## Getting started
 * Clone repository using in GitHub Desktop
 * Open visual studio
-* Run pogram
+* Run program
 
 
 ## Built With
@@ -18,5 +18,3 @@ ticTacToe
 
 ## License
 This project is licensed under the MIT License. Please see [LICENSE](https://github.com/erikarvidsson/photoify-ea/blob/master/LICENSE) file for details.
-
-<img src="https://github.styleci.io/repos/161142663/shield">
